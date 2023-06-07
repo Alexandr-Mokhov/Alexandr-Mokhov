@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 ### :man_technologist: Обо мне:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Меня давно интересовала сфера информационных технологий, думаю эта сфера является наиболее перспективной.
 
-С лета 2022 года целенаправленно и усердно изучаю веб разработку на курсе Яндекс.Практикума.
+- 🌱 С лета 2022 года целенаправленно и усердно изучаю веб разработку на курсе Яндекс.Практикума.
 
 - :zap: Мои цели - развиваться в IT и углублять свои знания.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-mokhov_alexandr-blue?style=flat&logo=Telegram&logoColor=white)](http://t.me/mokhov_alexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mokhov.alexandr.86@yandex.ru)
+- :mailbox: Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-mokhov_alexandr-blue?style=flat&logo=Telegram&logoColor=white)](http://t.me/mokhov_alexandr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mokhov.alexandr.86@yandex.ru)
 
 ---
 
