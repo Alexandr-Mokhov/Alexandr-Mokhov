@@ -79,9 +79,10 @@ Here are some ideas to get you started:
 | practicum.yandex.ru/ **HTML и CSS.** Расширенные возможности HTML и CSS            | 08/2022 - 10/2022 |
 | practicum.yandex.ru/ **HTML и CSS.** Адаптивная вёрстка и работа с макетом         | 10/2022 - 11/2022 |
 | practicum.yandex.ru/ **JavaScript**. Базовый JavaScript и работа с браузером       | 11/2022 - 01/2023 |
-| practicum.yandex.ru/ **JavaScript**. JavaScript — непростые концепции              | 01/2023 - 01/2023 |
-| practicum.yandex.ru/ **React**. Интерфейсы с использованием React                  | 01/2023 - 03/2023 |
-| practicum.yandex.ru/ **Node.js**. Основы бэкенда для фронтенд-разработчиков        | 03/2023 - 06/2023 |
+| practicum.yandex.ru/ **JavaScript**. JavaScript — непростые концепции              | 01/2023 - 02/2023 |
+| practicum.yandex.ru/ **React**. Интерфейсы с использованием React                  | 02/2023 - 04/2023 |
+| practicum.yandex.ru/ **Node.js**. Основы бэкенда для фронтенд-разработчиков        | 04/2023 - 06/2023 |
+| practicum.yandex.ru/ **Дипломная работа**.                                         | 06/2023 - 07/2023 |
 
 ---
 
