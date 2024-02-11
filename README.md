@@ -15,13 +15,13 @@
 🌱 Поэтому я принял серьезное и уже осознанное решение развиваться во Фронтенд-разработке.   
 🤗 Я готов нести пользу будущей команде, будущей компании и обществу.  
 🚀 Каждый день я целенаправленно и усердно изучаю Фронтенд-разработку, расширяю и углубляю свои знания:  
-- рефакторю предыдущие проекты,  
-- решаю задачи на Codewars,  
-- читаю статьи в ТГ-каналах по разработке.  
+- Осваиваю новые фреймворки, библиотеки и технологии  
+- Рефакторю предыдущие проекты  
+- Решаю задачи на Codewars  
+- Читаю статьи в ТГ-каналах по разработке  
  
-👨‍🎓 Сейчас продолжаю изучать TypeScript.  
-На очереди Next.js и SSR.  
-Записался на курс по Vue.js.  
+👨‍🎓 Сейчас продолжаю изучать TypeScript и осваиваю Next.js.  
+На очереди Vue.js и Nuxt.js.  
 
 **🎯 Мои цели:**  
 ✅ разобраться с HTML и CSS  
@@ -51,6 +51,7 @@
 ### 🧩 Используемые технологии:
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
@@ -76,12 +77,12 @@
   <img src="https://lh3.googleusercontent.com/-O_pNhKsmQ8E2bAy_IfZIKG8sT1BMw0_2El6L7YVZhB1QzcOrZg0OBtXWQODcUqauYPHDziudWMMDLIgrsjSvTncDw=w128-h128-e365-rj-sc0x00ffffff" title="PerfectPixel" alt="PerfectPixel" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://camo.githubusercontent.com/b6179e57bdea2f3eeb1f703ac2e36a2eac803040600c0d34f3f052f5a17653c4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65392f4e6f74696f6e2d6c6f676f2e737667" title="notion" alt="notion" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp
 </div>
 
 ---
 
-### 👨‍🎓🚀 Мой прогресс:  
+### 🚀 Мой прогресс:  
 
 |  Технологии и темы                                           | Даты              |
 | -------------------------------------------------------------| :---------------: |
