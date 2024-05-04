@@ -15,7 +15,7 @@
 🌱 Поэтому я принял серьезное и уже осознанное решение развиваться во Фронтенд-разработке.   
 🤗 Я готов нести пользу будущей команде, будущей компании и обществу.  
 🚀 Каждый день я целенаправленно и усердно изучаю Фронтенд-разработку, расширяю и углубляю свои знания:  
-- Осваиваю новые фреймворки, библиотеки и технологии  
+- Осваиваю новые фреймворки, библиотеки  
 - Рефакторю предыдущие проекты  
 - Решаю задачи на Codewars  
 - Читаю статьи в ТГ-каналах по разработке  
@@ -25,45 +25,37 @@
 
 ---
 
-### 🤝 Связь со мной:
-
-<div id="badges">
-  <a href="http://t.me/mokhov_alexandr" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/></a>&nbsp
-  <a href="mailto:mokhov.alexandr@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2913/2913990.png" width="40" height="40" alt="Gmail"/></a>
-</div>
-
----
-
-### 🧩 Используемые технологии:
+### 🧩 Мой стек:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp
 </div>
 
 ---
 
-### 🛠 Используемые инструменты:
+### 🛠 Мои инструменты:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
   <img src="https://lh3.googleusercontent.com/-O_pNhKsmQ8E2bAy_IfZIKG8sT1BMw0_2El6L7YVZhB1QzcOrZg0OBtXWQODcUqauYPHDziudWMMDLIgrsjSvTncDw=w128-h128-e365-rj-sc0x00ffffff" title="PerfectPixel" alt="PerfectPixel" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -77,7 +69,7 @@
 ✅ освоить Redux / Redux Toolkit  
 ✅ изучить TypeScript  
 ✅ поучаствовать в командной разработке  
-⬜ изучить Next.js и SSR  
+✅ изучить Next.js и SSR  
 ⬜ устроиться работать в крутую ИТ-компанию  
 ⬜ разобраться с Vue.js и Nuxt.js  
 ⬜ постоянно совершенствоваться  
@@ -99,18 +91,18 @@
 | **Препроцессор Sass (SCSS)**                                 | 08/2023 - 09/2023 |
 | **Менеджер состояния Redux / Redux-Toolkit**                 | 09/2023 - 10/2023 |
 | **Типизация с TypeScript**                                   | 12/2023 - 01/2024 |
-| **Командная разработка**                                     | 02/2023 - 04/2024 |
-| **Next.js и SSR**                                            | 02/2023 -  . . .  |
+| **Next.js и SSR**                                            | 01/2023 - 02/2024 |
+| **Командная разработка**                                     | 02/2023 - 05/2024 |
 
 ---
 
-### 🥋 Моя статистика на Codewars (алгоритмы):  
+### 🥋 Моя статистика на Codewars:  
 
 [![codewars](https://www.codewars.com/users/Alexandr-Mokhov/badges/large)](https://www.codewars.com/users/Alexandr-Mokhov)  
 
 ---
 
-### 📊 Моя статистика на GitHub (коммиты и языки):
+### 📊 Моя статистика на GitHub:
 
 <table>
   <tr>
@@ -122,5 +114,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🤝 Связь со мной:
+
+<div id="badges">
+  <a href="http://t.me/mokhov_alexandr" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/></a>&nbsp
+  <a href="mailto:mokhov.alexandr@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2913/2913990.png" width="40" height="40" alt="Gmail"/></a>
+</div>
+
+---
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Alexandr-Mokhov)
