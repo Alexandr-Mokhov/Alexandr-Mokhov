@@ -9,18 +9,17 @@
 
 Я Frontend-разработчик.  
 Меня давно интересовала сфера информационных технологий и раньше я неосознанно тянулся ко всему что с ней связано.  
-🛠️ Мне нравится создавать, проектировать, конструировать что-то новое и полезное, видеть результат работы.  
-Создавать общественно значимые проекты, раньше это были супермаркеты, а теперь это сайты и веб-приложения.  
-Мне нравится когда сайты созданы быстрыми, естественными и с заботой к пользователю.  
+🛠️ Мне нравится создавать что-то новое и полезное, видеть результат работы.  
 🌱 Поэтому я принял серьезное и уже осознанное решение развиваться во Фронтенд-разработке.   
-🚀 Расширяю и углубляю свои знания:  
+Мне нравится когда сайты созданы быстрыми, естественными и с заботой к пользователю.  
+
+🚀 Я постоянно расширяю и углубляю свои знания:  
 - Осваиваю новые фреймворки и библиотеки  
 - Рефакторю предыдущие проекты  
 - Решаю задачи на Codewars  
-- Читаю статьи в ТГ-каналах по разработке  
- 
-👨‍🎓 Сейчас продолжаю изучать TypeScript и осваиваю Next.js.  
-На очереди Vue.js и Nuxt.js.  
+- Читаю статьи в ТГ-каналах по разработке
+
+👨‍🎓 Сейчас продолжаю разбираться с TypeScript и Next.js.
 
 ---
 
@@ -36,8 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp
@@ -49,9 +49,11 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://lh3.googleusercontent.com/-O_pNhKsmQ8E2bAy_IfZIKG8sT1BMw0_2El6L7YVZhB1QzcOrZg0OBtXWQODcUqauYPHDziudWMMDLIgrsjSvTncDw=w128-h128-e365-rj-sc0x00ffffff" title="PerfectPixel" alt="PerfectPixel" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
@@ -75,8 +77,7 @@
 ✅ изучить TypeScript  
 ✅ поучаствовать в командной разработке  
 ✅ изучить Next.js и SSR  
-⬜ разобраться с Vue.js и Nuxt.js  
-⬜ устроиться работать в крутую ИТ-компанию  
+✅ устроиться работать в крутую ИТ-компанию  
 ⬜ стать крутейшим разработчиком 👑  
 
 ---
@@ -97,6 +98,7 @@
 | **Типизация с TypeScript**                                   | 12/2023 - 01/2024 |
 | **Next.js и SSR**                                            | 01/2023 - 02/2024 |
 | **Командная разработка**                                     | 02/2024 - 06/2024 |
+| **Работа в крутой IT-компании**                                     | 08/2024 -  |
 
 ---
 
