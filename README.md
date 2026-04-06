@@ -9,17 +9,10 @@
 
 Я Frontend-разработчик.  
 Меня давно интересовала сфера информационных технологий и раньше я неосознанно тянулся ко всему что с ней связано.  
-🛠️ Мне нравится создавать что-то новое и полезное, видеть результат работы.  
-🌱 Поэтому я принял серьезное и уже осознанное решение развиваться во Фронтенд-разработке.   
+🛠️ Мне нравится создавать что-то новое и полезное, видеть результат работы. 
 Мне нравится когда сайты созданы быстрыми, естественными и с заботой к пользователю.  
-
-🚀 Я постоянно расширяю и углубляю свои знания:  
-- Осваиваю новые фреймворки и библиотеки  
-- Рефакторю предыдущие проекты  
-- Решаю задачи на Codewars  
-- Читаю статьи в ТГ-каналах по разработке
-
-👨‍🎓 Сейчас продолжаю разбираться с TypeScript и Next.js.
+🌱 Поэтому я развиваюсь во Фронтенд-разработке.  
+🚀 Я постоянно расширяю и углубляю свои знания, осваиваю новые фреймворки и библиотеки, рефакторю предыдущие проекты.  
 
 ---
 
@@ -28,14 +21,14 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="ReactRouter" alt="ReactRouter" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="Zustand" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp
@@ -49,56 +42,45 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
   <img src="https://lh3.googleusercontent.com/-O_pNhKsmQ8E2bAy_IfZIKG8sT1BMw0_2El6L7YVZhB1QzcOrZg0OBtXWQODcUqauYPHDziudWMMDLIgrsjSvTncDw=w128-h128-e365-rj-sc0x00ffffff" title="PerfectPixel" alt="PerfectPixel" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/354208/prettier.svg" title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/354208/prettier.svg" title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Alexandr-Mokhov/Alexandr-Mokhov/blob/main/claudecode.svg" title="Claude" alt="Claude" width="40" height="40"/>&nbsp
 </div>
-
----
-
-### 🎯 Мои цели:  
-✅ разобраться с HTML и CSS  
-✅ разобраться с JavaScript  
-✅ освоить React  
-✅ разобраться с Node.js  
-✅ освоить SASS  
-✅ освоить Redux / Redux Toolkit  
-✅ изучить TypeScript  
-✅ поучаствовать в командной разработке  
-✅ изучить Next.js и SSR  
-✅ устроиться работать в крутую ИТ-компанию  
-⬜ стать крутейшим разработчиком 👑  
 
 ---
 
 ### 🚀 Мой прогресс:  
 
-|  Технологии и темы                                           | Даты              |
-| -------------------------------------------------------------| :---------------: |
-| **HTML и CSS**                                               | 08/2022 - 10/2022 |
-| **Адаптивная вёрстка и работа с макетом**                    | 10/2022 - 11/2022 |
-| **Базовый JavaScript и работа с браузером**                  | 11/2022 - 01/2023 |
-| **JavaScript — концепции ООП**                               | 01/2023 - 03/2023 |
-| **React**                                                    | 03/2023 - 05/2023 |
-| **Основы бэкенда. Node.js**                                  | 05/2023 - 07/2023 |
-| **Pet-проекты**                                              | 07/2023 - 08/2023 |
-| **Препроцессор Sass (SCSS)**                                 | 08/2023 - 09/2023 |
-| **Менеджер состояния Redux / Redux-Toolkit**                 | 09/2023 - 10/2023 |
-| **Типизация с TypeScript**                                   | 12/2023 - 01/2024 |
-| **Next.js и SSR**                                            | 01/2023 - 02/2024 |
-| **Командная разработка**                                     | 02/2024 - 06/2024 |
-| **Работа в крутой IT-компании**                                     | 08/2024 -  |
+| **Хронология**                                               |
+| :--- |
+| **HTML и CSS**                                               |
+| **Адаптивная вёрстка и работа с макетом**                    |
+| **JavaScript и работа с браузером**                          |
+| **Pet-проекты**                                              |
+| **Подработка на фрилансе**                                   |
+| **Концепции ООП**                                            |
+| **React**                                                    |
+| **Основы бэкенда. Node.js**                                  |
+| **Препроцессор Sass (SCSS)**                                 |
+| **Менеджер состояния Redux / Redux-Toolkit**                 |
+| **Типизация с TypeScript**                                   |
+| **Next.js**                                                  |
+| **Фриланс. Командная разработка**                            |
+| **Работа по найму в крутой продуктовой IT-компании**         |
+| **Tailwind CSS**                                             |
+| **Zustand**                                                  |
+| **Работа с нейронками - Claude Code**                        |
 
 ---
 
