@@ -46,9 +46,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
-  <img src="https://lh3.googleusercontent.com/-O_pNhKsmQ8E2bAy_IfZIKG8sT1BMw0_2El6L7YVZhB1QzcOrZg0OBtXWQODcUqauYPHDziudWMMDLIgrsjSvTncDw=w128-h128-e365-rj-sc0x00ffffff" title="PerfectPixel" alt="PerfectPixel" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Alexandr-Mokhov/Alexandr-Mokhov/blob/main/perfect-pixel.png" title="PerfectPixel" alt="PerfectPixel" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/354208/prettier.svg" title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Alexandr-Mokhov/Alexandr-Mokhov/blob/main/prettier.svg" title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
@@ -108,8 +108,8 @@
 ### 🤝 Связь со мной:
 
 <div id="badges">
-  <a href="http://t.me/mokhov_alexandr" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/></a>&nbsp
-  <a href="mailto:mokhov.alexandr@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2913/2913990.png" width="40" height="40" alt="Gmail"/></a>
+  <a href="http://t.me/mokhov_alexandr" target="_blank"><img src="https://github.com/Alexandr-Mokhov/Alexandr-Mokhov/blob/main/telegram.png" width="40" height="40" alt="Telegram"/></a>&nbsp
+  <a href="mailto:mokhov.alexandr@gmail.com" target="_blank"><img src="https://github.com/Alexandr-Mokhov/Alexandr-Mokhov/blob/main/gmail.png" width="40" height="40" alt="Gmail"/></a>
 </div>
 
 ---
